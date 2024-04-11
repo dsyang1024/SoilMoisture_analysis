@@ -1,0 +1,13 @@
+﻿Plot,Sensor,Treatment,Crop
+103,554,RainStandard,Corn
+203,112,IrrStandard,Corn
+206,111,RainIntense,Corn
+108,114,FertIntense,Corn
+208,118,FertStandard,Corn
+202,2492,IrrIntense,Corn
+103,999,RainStandard,Soybean
+203,113,IrrStandard,Soybean
+206,556,RainIntense,Soybean
+108,999,FertIntense,Soybean
+107,999,FertStandard,Soybean
+106,555,IrrIntense,Soybean
